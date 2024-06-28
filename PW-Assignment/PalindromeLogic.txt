@@ -1,0 +1,43 @@
+number = 12321
+
+number % 10 = 12321 % 10 = 1 = remain
+
+rever = 1
+
+print 1 
+
+number = number / 10 = 1232
+
+number % 10 = 1232 % 10 = 2 = remain 
+
+rever = 1 * 10 + 2 = 12
+
+print 12
+
+number = number / 10 = 123
+
+number % 10 = 123 % 10 = 3 = remain
+
+rever = 12 * 10 + 3 = 123
+
+print 123
+
+number = number / 10 = 12
+
+number % 10 = 12 % 10 = 2 = remain
+
+rever = 123 * 10 + 2 = 1232
+
+print 1232
+
+number = number / 10 = 1
+
+number % 10 = 1 % 10 = 1 = remain
+
+rever = 1232 * 10 + 1 = 12321
+
+print 12321
+
+number = number / 10 = 0.1 
+
+Exit

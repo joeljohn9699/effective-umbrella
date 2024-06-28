@@ -1,0 +1,16 @@
+number 23
+
+i = 2, i < 23, i++
+number / i == 0
+23 / 2 != 0
+true
+
+23 is a prime number
+
+number 22
+
+i = 2, i < 22, i++
+22 / 2 == 0
+false
+
+22 is not a prime
